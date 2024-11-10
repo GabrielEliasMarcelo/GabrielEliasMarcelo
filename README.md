@@ -1,16 +1,20 @@
-### Hi there 👋
+### Gabriel
+- X: https://x.com/GEMRech
+- Instagram:https://www.instagram.com/_gabrielmarcelo_/
 
-<!--
-**GabrielEliasMarcelo/GabrielEliasMarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Full Time Job
+-  Architecture and Devops Team
 
-Here are some ideas to get you started:
+---
+### Side Projects
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### Learning
+-
+
+
+
+### I Want to Learn
