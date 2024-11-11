@@ -13,9 +13,9 @@
 
 ---
 ### Learning
--
+- Micro Frontend
 
 
 
 ### I Want to Learn
--
+- Elixir
